@@ -1,0 +1,6 @@
+framework module IJKSDK {
+  umbrella header "IJKSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
